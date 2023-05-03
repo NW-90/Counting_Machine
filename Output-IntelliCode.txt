@@ -1,0 +1,5 @@
+﻿[VSIX I] Trace log: C:\Users\USER\AppData\Local\Temp\VSFeedbackIntelliCodeLogs\20191213_065541_VS.log
+[CSharp.Package I] [C# IntelliCode] C# IntelliCode Completions package is starting from InitializeAsync
+[CSharp.Package I] [C# IntelliCode] Obtained VS Workspace and TaskCenterService from InitializeAsync
+[CSharp.Package I] [C# IntelliCode] Running out-of-process. from RegisterIntelliCodeClientAsync
+[VSIX I] Version: 2.2.182.4985

@@ -1,0 +1,144 @@
+﻿1>------ Build started: Project: Alturos.Yolo, Configuration: Debug Any CPU ------
+2>------ Build started: Project: VisionCounting, Configuration: Debug Any CPU ------
+3>------ Build started: Project: MetroFramework.Demo, Configuration: Debug Any CPU ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(3309,5): warning MSB3491: Could not write lines to file "obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.cs". Access to the path 'C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.cs' is denied.
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\ConfigurationDetector.cs(6,18,6,39): warning CS1591: Missing XML comment for publicly visible type or member 'ConfigurationDetector'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\DetectionSystem.cs(3,17,3,32): warning CS1591: Missing XML comment for publicly visible type or member 'DetectionSystem'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\DetectionSystem.cs(5,9,5,16): warning CS1591: Missing XML comment for publicly visible type or member 'DetectionSystem.Unknown'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\DetectionSystem.cs(6,9,6,12): warning CS1591: Missing XML comment for publicly visible type or member 'DetectionSystem.CPU'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\DetectionSystem.cs(7,9,7,12): warning CS1591: Missing XML comment for publicly visible type or member 'DetectionSystem.GPU'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\ImageAnalyzer.cs(7,18,7,31): warning CS1591: Missing XML comment for publicly visible type or member 'ImageAnalyzer'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\ImageAnalyzer.cs(11,16,11,29): warning CS1591: Missing XML comment for publicly visible type or member 'ImageAnalyzer.ImageAnalyzer()'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\ImageAnalyzer.cs(22,21,22,39): warning CS1591: Missing XML comment for publicly visible type or member 'ImageAnalyzer.IsValidImageFormat(byte[])'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\ImageResizer.cs(8,18,8,30): warning CS1591: Missing XML comment for publicly visible type or member 'ImageResizer'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\ImageResizer.cs(10,23,10,29): warning CS1591: Missing XML comment for publicly visible type or member 'ImageResizer.Resize(byte[], int, int)'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\EnvironmentReport.cs(3,18,3,35): warning CS1591: Missing XML comment for publicly visible type or member 'EnvironmentReport'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\EnvironmentReport.cs(6,21,6,70): warning CS1591: Missing XML comment for publicly visible type or member 'EnvironmentReport.MicrosoftVisualCPlusPlus2017RedistributableExists'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\EnvironmentReport.cs(8,21,8,31): warning CS1591: Missing XML comment for publicly visible type or member 'EnvironmentReport.CudaExists'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\EnvironmentReport.cs(10,21,10,32): warning CS1591: Missing XML comment for publicly visible type or member 'EnvironmentReport.CudnnExists'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\EnvironmentReport.cs(12,23,12,40): warning CS1591: Missing XML comment for publicly visible type or member 'EnvironmentReport.GraphicDeviceName'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloItem.cs(5,18,5,26): warning CS1591: Missing XML comment for publicly visible type or member 'YoloItem'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloItem.cs(7,23,7,27): warning CS1591: Missing XML comment for publicly visible type or member 'YoloItem.Type'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloItem.cs(8,23,8,33): warning CS1591: Missing XML comment for publicly visible type or member 'YoloItem.Confidence'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloItem.cs(9,20,9,21): warning CS1591: Missing XML comment for publicly visible type or member 'YoloItem.X'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloItem.cs(10,20,10,21): warning CS1591: Missing XML comment for publicly visible type or member 'YoloItem.Y'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloItem.cs(11,20,11,25): warning CS1591: Missing XML comment for publicly visible type or member 'YoloItem.Width'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloItem.cs(12,20,12,26): warning CS1591: Missing XML comment for publicly visible type or member 'YoloItem.Height'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloItem.cs(14,22,14,28): warning CS1591: Missing XML comment for publicly visible type or member 'YoloItem.Center()'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloTrackingItem.cs(3,18,3,34): warning CS1591: Missing XML comment for publicly visible type or member 'YoloTrackingItem'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloTrackingItem.cs(5,16,5,32): warning CS1591: Missing XML comment for publicly visible type or member 'YoloTrackingItem.YoloTrackingItem(YoloItem, int, byte[])'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloTrackingItem.cs(18,20,18,25): warning CS1591: Missing XML comment for publicly visible type or member 'YoloTrackingItem.Index'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloTrackingItem.cs(19,23,19,38): warning CS1591: Missing XML comment for publicly visible type or member 'YoloTrackingItem.TaggedImageData'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloPreTrainedData.cs(3,18,3,36): warning CS1591: Missing XML comment for publicly visible type or member 'YoloPreTrainedData'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloPreTrainedData.cs(5,23,5,27): warning CS1591: Missing XML comment for publicly visible type or member 'YoloPreTrainedData.Name'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloPreTrainedData.cs(6,23,6,36): warning CS1591: Missing XML comment for publicly visible type or member 'YoloPreTrainedData.ConfigFileUrl'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloPreTrainedData.cs(7,23,7,35): warning CS1591: Missing XML comment for publicly visible type or member 'YoloPreTrainedData.NamesFileUrl'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloPreTrainedData.cs(8,23,8,37): warning CS1591: Missing XML comment for publicly visible type or member 'YoloPreTrainedData.WeightsFileUrl'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\Model\YoloPreTrainedData.cs(9,25,9,41): warning CS1591: Missing XML comment for publicly visible type or member 'YoloPreTrainedData.OptionalFileUrls'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloConfiguration.cs(3,18,3,35): warning CS1591: Missing XML comment for publicly visible type or member 'YoloConfiguration'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloConfiguration.cs(5,23,5,33): warning CS1591: Missing XML comment for publicly visible type or member 'YoloConfiguration.ConfigFile'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloConfiguration.cs(6,23,6,34): warning CS1591: Missing XML comment for publicly visible type or member 'YoloConfiguration.WeightsFile'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloConfiguration.cs(7,23,7,32): warning CS1591: Missing XML comment for publicly visible type or member 'YoloConfiguration.NamesFile'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloConfiguration.cs(9,16,9,33): warning CS1591: Missing XML comment for publicly visible type or member 'YoloConfiguration.YoloConfiguration(string, string, string)'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloPreTrainedDatasetRepository.cs(10,18,10,49): warning CS1591: Missing XML comment for publicly visible type or member 'YoloPreTrainedDatasetRepository'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloPreTrainedDatasetRepository.cs(14,16,14,47): warning CS1591: Missing XML comment for publicly visible type or member 'YoloPreTrainedDatasetRepository.YoloPreTrainedDatasetRepository()'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloPreTrainedDatasetRepository.cs(49,37,49,53): warning CS1591: Missing XML comment for publicly visible type or member 'YoloPreTrainedDatasetRepository.GetDatasetsAsync()'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloPreTrainedDatasetRepository.cs(55,33,55,53): warning CS1591: Missing XML comment for publicly visible type or member 'YoloPreTrainedDatasetRepository.DownloadDatasetAsync(string, string)'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloTracking.cs(11,18,11,30): warning CS1591: Missing XML comment for publicly visible type or member 'YoloTracking'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloTracking.cs(18,16,18,28): warning CS1591: Missing XML comment for publicly visible type or member 'YoloTracking.YoloTracking(YoloWrapper, int)'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloTracking.cs(24,21,24,38): warning CS1591: Missing XML comment for publicly visible type or member 'YoloTracking.SetTrackingObject(YoloItem)'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloTracking.cs(29,21,29,38): warning CS1591: Missing XML comment for publicly visible type or member 'YoloTracking.SetTrackingObject(Point)'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloTracking.cs(34,33,34,40): warning CS1591: Missing XML comment for publicly visible type or member 'YoloTracking.Analyse(byte[])'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloWrapper.cs(12,18,12,29): warning CS1591: Missing XML comment for publicly visible type or member 'YoloWrapper'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloWrapper.cs(14,26,14,36): warning CS1591: Missing XML comment for publicly visible type or member 'YoloWrapper.MaxObjects'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloWrapper.cs(21,32,21,47): warning CS1591: Missing XML comment for publicly visible type or member 'YoloWrapper.DetectionSystem'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloWrapper.cs(22,34,22,51): warning CS1591: Missing XML comment for publicly visible type or member 'YoloWrapper.EnvironmentReport'
+1>C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\YoloWrapper.cs(91,21,91,28): warning CS1591: Missing XML comment for publicly visible type or member 'YoloWrapper.Dispose()'
+1>  Alturos.Yolo -> C:\MyData\PVCDLCOUNTER_22072020_6\Alturos.Yolo\bin\Debug\Alturos.Yolo.dll
+3>C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(3309,5): warning MSB3491: Could not write lines to file "obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.cs". Access to the path 'C:\MyData\PVCDLCOUNTER_22072020_6\metroframework\MetroFramework.Demo\obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.cs' is denied.
+3>  MetroFramework.Demo -> C:\MyData\PVCDLCOUNTER_22072020_6\metroframework\MetroFramework.Demo\bin\Debug\MetroFramework.Demo.exe
+2>C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2081,5): warning MSB3270: There was a mismatch between the processor architecture of the project being built "MSIL" and the processor architecture of the reference "Basler.Pylon, Version=1.1.0.0, Culture=neutral, PublicKeyToken=e389355f398382ab, processorArchitecture=AMD64", "x86". This mismatch may cause runtime failures. Please consider changing the targeted processor architecture of your project through the Configuration Manager so as to align the processor architectures between your project and references, or take a dependency on references with a processor architecture that matches the targeted processor architecture of your project.
+2>C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(3309,5): warning MSB3491: Could not write lines to file "obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.cs". Access to the path 'C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.cs' is denied.
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\trackableobject.cs(8,7,8,21): warning CS0105: The using directive for 'System.Drawing' appeared previously in this namespace
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmColorView.cs(37,24,37,34): warning CS0108: 'FrmColorView.ParentForm' hides inherited member 'ContainerControl.ParentForm'. Use the new keyword if hiding was intended.
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\TabControlEx.cs(464,44,464,53): warning CS0108: 'TabControlEx.Alignment' hides inherited member 'TabControl.Alignment'. Use the new keyword if hiding was intended.
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmProduct.cs(47,24,47,34): warning CS0108: 'FrmProduct.ParentForm' hides inherited member 'ContainerControl.ParentForm'. Use the new keyword if hiding was intended.
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(47,24,47,34): warning CS0108: 'FrmIO.ParentForm' hides inherited member 'ContainerControl.ParentForm'. Use the new keyword if hiding was intended.
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmProduct.cs(329,17,329,22): warning CS0219: The variable 'count' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(437,36,437,46): warning CS0219: The variable 'DataString' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(438,36,438,39): warning CS0219: The variable 'str' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(612,36,612,46): warning CS0219: The variable 'DataString' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(613,36,613,39): warning CS0219: The variable 'str' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmProduct.cs(1379,38,1379,40): warning CS0168: The variable 'ex' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3105,30,3105,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3270,30,3270,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3310,30,3310,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3350,30,3350,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3389,30,3389,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3428,30,3428,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3468,30,3468,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3509,30,3509,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3635,30,3635,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3690,30,3690,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3731,30,3731,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3784,30,3784,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(3827,30,3827,39): warning CS0168: The variable 'exception' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(3739,26,3739,46): warning CS0219: The variable 'StateContourAreaZero' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(3561,18,3561,37): warning CS0219: The variable 'YellowContoursTrack' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(3562,18,3562,35): warning CS0219: The variable 'GrayContoursTrack' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(3563,18,3563,36): warning CS0219: The variable 'WhiteContoursTrack' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(3564,18,3564,35): warning CS0219: The variable 'BlueContoursTrack' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(3566,20,3566,37): warning CS0219: The variable 'percentageobstart' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(5000,45,5000,49): warning CS0219: The variable 'size' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(5356,67,5356,81): warning CS0219: The variable 'currentCenter2' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(5186,32,5186,44): warning CS0219: The variable 'dblFontScale' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(5187,29,5187,45): warning CS0219: The variable 'intFontThickness' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(4386,18,4386,37): warning CS0219: The variable 'YellowContoursTrack' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(4387,18,4387,35): warning CS0219: The variable 'GrayContoursTrack' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(4388,18,4388,36): warning CS0219: The variable 'WhiteContoursTrack' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(4389,18,4389,35): warning CS0219: The variable 'BlueContoursTrack' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(5780,22,5780,47): warning CS0219: The variable 'IntersectionExistingState' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(5781,21,5781,52): warning CS0219: The variable 'intIndexNumIntersectionExisting' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(5791,22,5791,41): warning CS0219: The variable 'InExistBoundingRect' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(5794,22,5794,41): warning CS0219: The variable 'Intersect_Rectangle' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(7263,13,7263,19): warning CS0162: Unreachable code detected
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(7471,30,7471,32): warning CS0168: The variable 'ex' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(7610,30,7610,32): warning CS0168: The variable 'ex' is declared but never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(9688,17,9688,27): warning CS0219: The variable 'ImageWidth' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(9863,17,9863,27): warning CS0219: The variable 'ImageWidth' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(10017,30,10017,50): warning CS0219: The variable 'StateContourAreaZero' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(75,21,75,23): warning CS0169: The field 'Frmmain.gb' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(143,16,143,28): warning CS0169: The field 'Frmmain.filenameload' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(142,22,142,40): warning CS0169: The field 'Frmmain.HSVimageInProgress' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(65,24,65,28): warning CS0169: The field 'Frmmain.dist' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(72,21,72,25): warning CS0169: The field 'Frmmain.blue' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(145,26,145,39): warning CS0169: The field 'Frmmain.ImageHSVwheel' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(62,24,62,31): warning CS0169: The field 'Frmmain.highThr' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(140,30,140,40): warning CS0169: The field 'Frmmain.HSVcapture' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(74,21,74,24): warning CS0169: The field 'Frmmain.red' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(73,21,73,26): warning CS0169: The field 'Frmmain.green' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(141,22,141,42): warning CS0169: The field 'Frmmain.HSVcaptureInProgress' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(144,26,144,39): warning CS0169: The field 'Frmmain.HSVImageFrame' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(71,21,71,26): warning CS0169: The field 'Frmmain.thick' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(63,24,63,30): warning CS0169: The field 'Frmmain.accThr' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(68,21,68,27): warning CS0169: The field 'Frmmain.maxRad' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(70,21,70,30): warning CS0169: The field 'Frmmain.radiusThr' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(148,13,148,20): warning CS0169: The field 'Frmmain.diff_LH' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(67,21,67,27): warning CS0169: The field 'Frmmain.minRad' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(61,24,61,30): warning CS0169: The field 'Frmmain.lowThr' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(69,21,69,25): warning CS0169: The field 'Frmmain.rad1' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(66,21,66,26): warning CS0169: The field 'Frmmain.param' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(147,26,147,34): warning CS0169: The field 'Frmmain.hsvImage' is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(91,24,91,40): warning CS0414: The field 'Frmmain.m_bitmap_process' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(242,14,242,28): warning CS0414: The field 'Frmmain.uimageContours' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(199,16,199,24): warning CS0414: The field 'Frmmain.Old_Area' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(77,22,77,36): warning CS0414: The field 'Frmmain.blnFormClosing' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(66,16,66,29): warning CS0414: The field 'FrmIO.BARCODE1_PORT' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(238,13,238,29): warning CS0414: The field 'Frmmain.imgOutDifference' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(197,13,197,29): warning CS0414: The field 'Frmmain.Old_FrameProcess' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(168,15,168,24): warning CS0414: The field 'Frmmain.imageDraw' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(379,14,379,35): warning CS0414: The field 'Frmmain.EnableDrawCurrentBlob' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\FrmIO.cs(84,14,84,26): warning CS0414: The field 'FrmIO.connectADAM2' is assigned but its value is never used
+2>C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\Frmmain.cs(239,13,239,33): warning CS0414: The field 'Frmmain.imgOutDifferenceGray' is assigned but its value is never used
+2>  VisionCounting -> C:\MyData\PVCDLCOUNTER_22072020_6\VisionCounting\bin\Debug\VisionCounting.exe
+========== Build: 3 succeeded, 0 failed, 6 up-to-date, 0 skipped ==========
